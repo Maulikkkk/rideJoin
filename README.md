@@ -10,7 +10,7 @@ The goal of building this website was twofold:
 
 ## 🚀 Live Demo
 
-🔗 **[View Website](https://initialphase-o2tf.vercel.app/)**
+🔗 **[View Website](https://ridejoin-mg.vercel.app/)**
 
 ---
 
