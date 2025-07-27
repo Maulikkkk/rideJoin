@@ -1,6 +1,6 @@
-# 🚗 RideJoin – InitialPhase
+#  RideJoin 
 
-This is the **first prototype website** for my startup idea, **RideJoin** – a concept aimed at redefining shared commuting.  
+This is the **first prototype website** for, **RideJoin** – a concept aimed at redefining shared commuting.  
 
 The goal of building this website was twofold:  
 1. **Showcase the core idea of RideJoin**.  
@@ -8,13 +8,13 @@ The goal of building this website was twofold:
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-🔗 **[View Website](https://ridejoin-mg.vercel.app/)**
+🔗 **[View Website](https://ridejoin.vercel.app/)**
 
 ---
 
-## 📌 Features
+##  Features
 
 ✅ Explains the vision & purpose of **RideJoin**  
 ✅ Built with modern frontend stack (**React + Tailwind**)  
