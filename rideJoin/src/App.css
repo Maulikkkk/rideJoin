@@ -1,0 +1,65 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Logo polish */
+.logo {
+  height: 5rem;
+  padding: 1rem;
+  transition: transform 300ms ease, filter 300ms ease;
+}
+.logo:hover {
+  transform: scale(1.05) rotate(1deg);
+  filter: drop-shadow(0 0 1rem #3b82f6aa);
+}
+
+/* React-specific logo spin (if used) */
+.logo.react:hover {
+  filter: drop-shadow(0 0 1rem #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo.react {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Card style - used in how-it-works, whatwedo */
+.card {
+  @apply bg-white rounded-xl p-6 shadow-md hover:shadow-xl transition-transform duration-300;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+
+/* Reusable heading class (can be moved to index.css too) */
+.heading-lg {
+  @apply text-4xl md:text-5xl font-extrabold text-gray-800 leading-tight;
+}
+
+/* Paragraph for sections */
+.section-paragraph {
+  @apply max-w-2xl mx-auto text-base md:text-lg text-gray-600 mt-2;
+}
+
+/* Button animation polish */
+button {
+  transition: all 0.3s ease-in-out;
+}
+button:hover,
+button:focus {
+  transform: scale(1.03);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+}
