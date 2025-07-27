@@ -20,7 +20,7 @@ The goal of building this website was twofold:
 ✅ Built with modern frontend stack (**React + Tailwind**)  
 ✅ Clean and responsive UI  
 ✅ Fully deployed on **Vercel**  
-✅ Built as part of my **initial development phase** to polish React skills
+✅ Built as part of my **initial development phase** to polish React skills.
 
 ---
 
